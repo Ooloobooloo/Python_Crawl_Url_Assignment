@@ -13,4 +13,4 @@ Start the application:
 ```bash
 python main.py
 ```
-
+Demo video: https://drive.google.com/file/d/1VX6G7mrwVzdIfee3JzmDzZlWQ0MTxA6V/view?usp=sharing
